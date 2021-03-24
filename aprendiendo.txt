@@ -3,3 +3,6 @@ decir que hay que volver  a agregar.
 Veamos que pasa ahora si doy git status.
 
 Ya hice el commit, vamos a hacer unos cambios mas para seguir aprendiendo cosas.
+
+Bueno, parece que todo esta saliendo de maravilla. Pero vamos a hacer unas pruebas màs.
+
