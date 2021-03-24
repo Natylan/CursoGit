@@ -6,3 +6,5 @@ Ya hice el commit, vamos a hacer unos cambios mas para seguir aprendiendo cosas.
 
 Bueno, parece que todo esta saliendo de maravilla. Pero vamos a hacer unas pruebas màs.
 
+El push es para trabajar con otras personas, pero como no hay otras personas trabajando conmigo, haremos de cuenta que este comentario es de otro.
+
