@@ -1,3 +1,5 @@
 Y cada vez que agregue cosas se van a poner en rojo y en modificado, esto quiere
 decir que hay que volver  a agregar.
 Veamos que pasa ahora si doy git status.
+
+Ya hice el commit, vamos a hacer unos cambios mas para seguir aprendiendo cosas.
